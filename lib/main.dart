@@ -16,6 +16,8 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text('I Am Rich'),
+          backgroundColor: Colors.red,
+          foregroundColor: Colors.black,
         ),
       ),
     );
