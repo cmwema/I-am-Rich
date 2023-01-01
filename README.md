@@ -35,5 +35,5 @@ It demostrates the basic usage of  `Flutter Widgets`.
    
 
 ## App Images
-<img alt="app's screenshot" src="https://user-images.githubusercontent.com/81985376/210165768-5938f8ff-65c0-4e80-9f0b-f79f5ab10ed2.jpg" width="400" height="800">
+<img alt="app's screenshot" src="https://user-images.githubusercontent.com/81985376/210165768-5938f8ff-65c0-4e80-9f0b-f79f5ab10ed2.jpg" width="200" height="400">
 
