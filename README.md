@@ -10,24 +10,29 @@ It demostrates the basic usage of  `Flutter Widgets`.
 
 - MaterialApp widget
    A convenience widget that wraps a number of widgets that are commonly required for Material Design applications. It builds upon a WidgetsApp by adding material-design specific functionality, such as AnimatedTheme and GridPaper.
-   ![Read Me](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
+   [Read More](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
    
 - Scaffold Widget
+   Implements the basic Material Design visual layout structure.
+   [Read More](https://api.flutter.dev/flutter/material/Scaffold-class.html)
 
 - AppBar Widget
+   An app bar consists of a toolbar and potentially other widgets, such as a TabBar and a FlexibleSpaceBar. App bars typically expose one or more common actions with IconButtons which are optionally followed by a PopupMenuButton for less common operations (sometimes called the "overflow menu").
+   [Read More](https://api.flutter.dev/flutter/material/AppBar-class.html)
+   
 - Center Widget
+   A widget that centers its child within itself.
+   [Read More](https://api.flutter.dev/flutter/widgets/Center-class.html)
+   
 - Image Widget
+   A widget that displays image.
+   [Read More](https://api.flutter.dev/flutter/widgets/Image-class.html)
+   
 - Asset Widget
+   It is used when adding local images. 
+   It can be replaced by `Image.assets` property that comes with Image Widget.
+   [Read More](https://api.flutter.dev/flutter/painting/AssetImage-class.html)
+   
 
-## Getting Started
+## App Images
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
